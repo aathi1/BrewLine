@@ -242,4 +242,4 @@ This project was built across 7 structured self-learning sessions:
 Mechanical Engineering Graduate | Self-taught Python Developer  
 Bournemouth, UK | Unrestricted right to work in the UK
 
-[Portfolio](https://aathithyan-venkatesh.onrender.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+[Portfolio](https://aathithyan-venkatesh.onrender.com) | [LinkedIn](https://linkedin.com/in/aathi101)
